@@ -1,0 +1,46 @@
+body{
+	background-image: url('../images/calenda.jpg');
+	width: 100%;
+	background-size: cover;
+	height: 100vh;
+	overflow: auto;
+}
+.form-control{
+			width: 200px;
+			height: 45px;
+			text-align: center;
+			font-family: Bookman Old Style;
+			font-size: 20px;
+			border-color: grey;
+			border-width: 2px;
+		}
+		.btn{
+			margin-top: 10px;
+			width: 105px;
+			height: 30px;
+			text-align: center;
+			background-color: #ef5350;
+			color: white;
+		}
+		.container{
+			margin-top: 100px;
+		}
+		h1{
+			text-align: center;
+			color: red;
+			font-size: 40px;
+			margin-left: -0.2%;
+			margin-top: -130px;
+		}
+		img{
+			width: 140px;
+           	height: :150px;
+           	position:absolute;
+			transform: translate(-50%, -50%);
+			top: 18%;
+			left: 50%;
+			padding: 0 20px;
+			text-align: center;
+
+         }
+
